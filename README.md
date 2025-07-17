@@ -1,4 +1,4 @@
-## Olá eu sou a Joana👋❤️
+## Olá! eu sou a Joana👋❤️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joana-Silvac&theme=midnight-purple&show_icons=true)
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joana-Silvac&layout=compact&langs_count=16&theme=midnight-purple" />
