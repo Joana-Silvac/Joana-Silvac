@@ -1,4 +1,8 @@
-## Olá! eu sou a Joana👋❤️
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&color=4B0082&stroke=000000&lines=Joana+Silva+%F0%9F%8E%94;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;Projetos+reais+para+problemas+reais."/>
+</p>
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joana-Silvac&theme=midnight-purple&show_icons=true)
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joana-Silvac&layout=compact&langs_count=16&theme=midnight-purple" />
