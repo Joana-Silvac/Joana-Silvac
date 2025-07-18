@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&color=4B0082&stroke=000000&lines=Joana+Silva+%F0%9F%8E%94;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;Projetos+reais+para+problemas+reais."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&color=4B0082&stroke=000000&lines=Joana+Silva+%F0%9F%8E%94;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o.;"/>
 </p>
 
 ---
