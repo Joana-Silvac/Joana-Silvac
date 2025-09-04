@@ -14,7 +14,7 @@
   <img align="center" alt="Joana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" />
   <img align="center" alt="Joana-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" />
   <img align="center" alt="Joana-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Joana-gato" height="300" width="300" src="https://i.pinimg.com/736x/b0/c2/98/b0c2988dae6c0f5b02e7433021a91f39.jpg" >
+ 
  
   
 </div>
