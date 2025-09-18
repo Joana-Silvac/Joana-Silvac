@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&color=4B0082&stroke=000000&lines=Joana+Silva;"/>
 </p>
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joana-Silvac&theme=midnight-purple&show_icons=true)
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joana-Silvac&layout=compact&langs_count=16&theme=midnight-purple" />
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
