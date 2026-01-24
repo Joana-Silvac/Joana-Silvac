@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&color=4B0082&stroke=000000&lines=Joana;"/>
-</p>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
