@@ -4,7 +4,8 @@
   
   <img align="center" alt="Joana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" />
   <img align="center" alt="Joana-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" />
-  
+  <img align="center" alt="Joana-Intellij" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
  
   
 </div>
